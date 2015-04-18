@@ -1,7 +1,7 @@
+package pl.edu.agh.capo;
 /**
  * Created by Ryœ on 2015-04-09.
  */
-package pl.edu.agh.capo;
 
 import pl.edu.agh.amber.hokuyo.*;
 import pl.edu.agh.amber.common.AmberClient;
